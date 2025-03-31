@@ -15,15 +15,15 @@ Choosing the right framework for working with Large Language Models (LLMs) can b
 
 Such as play badminton,don't waste your time on choose your badminton racket,you should focus on improving yourself ability!
 
-## **Recommended LLM Frameworks & Tools**
+## All you need are these five frameworks, each with its unique functionality for one AI Tech！
 
-| Tool/Framework | Purpose                          | Key Features                                                 | Relevant URL                                            |
-| -------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| Ollama         | Deploy and manage local LLMs     | Run models locally, supports various architectures           | [Ollama](https://ollama.com/)                           |
-| Open Web UI    | Web interface for LLM management | User-friendly interface, integrates with models              | [Open Web UI](https://github.com/open-webui/open-webui) |
-| Prompt Guide   | Guide for prompt engineering     | Resources for crafting effective prompts                     | [Prompt Guide](https://www.promptingguide.ai/)          |
-| RAGFlow        | RAG framework for external data  | Toolkit for building RAG-based AI solutions, integrates with external data | [RAGFlow](https://ragflow.io/docs/dev/)                 |
-| Dify           | AI development platform          | No-code/low-code, workflow automation, AI agent creation     | [Dify](https://dify.ai/)                                |
+| Tool/Framework | Purpose                               | Key Features                                                 | Relevant URL                                            |
+| -------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| Ollama         | **Deploy** and manage local **LLMs**  | Run models locally, supports various architectures           | [Ollama](https://ollama.com/)                           |
+| Open Web UI    | **Web UI** for **LLM** **management** | User-friendly interface, integrates with models              | [Open Web UI](https://github.com/open-webui/open-webui) |
+| Prompt Guide   | Guide for **prompt engineering**      | Resources for crafting effective prompts                     | [Prompt Guide](https://www.promptingguide.ai/)          |
+| RAGFlow        | **RAG** framework for external data   | Toolkit for building RAG-based AI solutions, integrates with external data | [RAGFlow](https://ragflow.io/docs/dev/)                 |
+| Dify           | **LLMOps** development platform       | No-code/low-code, workflow automation, AI agent creation     | [Dify](https://dify.ai/)                                |
 
 ### **1. AI Deployment**
 
