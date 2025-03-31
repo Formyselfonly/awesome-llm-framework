@@ -4,13 +4,10 @@
 
 ## Road for AI!
 
-1. First,you need to deploy your LLMs
-2. Second,you need to use your LLMs for APP,here are the mainly tech for you
-   1. Prompt
-   2. RAG
-   3. WorkFlow
-   4. AI Agent
-   5. MCP
+| **Step**                         | **Description**                                     | **Key Technologies**                                         |
+| -------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
+| **1. Deploy LLMs**               | Set up and deploy your large language models.       | -LLMs Deploy and Model Select                                |
+| **2. Use LLMs for Applications** | Leverage LLMs for building AI-powered applications. | - **Prompt Engineering**  📝    - **Retrieval-Augmented Generation (RAG)** 🔍    - **Workflow Automation** 🔄    - **AI Agents** 🤖    - **Model Context Protocol (MCP)** 🔗 |
 
 ## **You don't need to master every framework!**
 
@@ -20,12 +17,25 @@ Such as play badminton,don't waste your time on choose your badminton racket,you
 
 ## **Recommended LLM Frameworks & Tools**
 
+| Tool/Framework | Purpose                          | Key Features                                                 | Relevant URL                                            |
+| -------------- | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| Ollama         | Deploy and manage local LLMs     | Run models locally, supports various architectures           | [Ollama](https://ollama.com/)                           |
+| Open Web UI    | Web interface for LLM management | User-friendly interface, integrates with models              | [Open Web UI](https://github.com/open-webui/open-webui) |
+| Prompt Guide   | Guide for prompt engineering     | Resources for crafting effective prompts                     | [Prompt Guide](https://www.promptingguide.ai/)          |
+| RAGFlow        | RAG framework for external data  | Toolkit for building RAG-based AI solutions, integrates with external data | [RAGFlow](https://ragflow.io/docs/dev/)                 |
+| Dify           | AI development platform          | No-code/low-code, workflow automation, AI agent creation     | [Dify](https://dify.ai/)                                |
+
 ### **1. AI Deployment**
 
 For easily deploying LLMs, this combination offers a powerful and user-friendly setup:
 Use Ollama for deploy LLMs and use Open Web UI for LLMs deploy and manage UI.
 
 - **[Ollama](https://ollama.com/)** – A simple, efficient way to run and manage local LLMs.
+  - DeepSeek
+    For low price
+  - OpenAI
+    For performance
+
 - **[Open Web UI](https://github.com/open-webui/open-webui)** – A sleek web interface for interacting with deployed models.
 
 ### **2. AI Technology Stack**
@@ -39,6 +49,8 @@ Use Dify for LLMOPs and use RAGFLOW external Knowledge for Dify.
 ------
 
 ## **Detailed Overview: Key LLM Technologies & Frameworks**
+
+
 
 ### **1. Prompt Engineering**
 
@@ -67,6 +79,8 @@ Automate tasks and build AI-driven workflows:
 #### **Server-Side**
 
 - **[Awesome-MCP-Servers](https://github.com/punkpeye/awesome-mcp-servers)**
+
+
 
 # Awesome LLM Frameworks-CN Version
 
