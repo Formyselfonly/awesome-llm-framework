@@ -30,13 +30,20 @@ Such as play badminton,don't waste your time on choose your badminton racket,you
 For easily deploying LLMs, this combination offers a powerful and user-friendly setup:
 Use Ollama for deploy LLMs and use Open Web UI for LLMs deploy and manage UI.
 
-- **[Ollama](https://ollama.com/)** – A simple, efficient way to run and manage local LLMs.
-  - DeepSeek
-    For low price
-  - OpenAI
-    For performance
+- Personal Use
+  - **[Ollama](https://ollama.com/)** – A simple, efficient way to run and manage local LLMs.
+    - DeepSeek
+      For low price
+    - OpenAI
+      For performance
 
-- **[Open Web UI](https://github.com/open-webui/open-webui)** – A sleek web interface for interacting with deployed models.
+  - **[Open Web UI](https://github.com/open-webui/open-webui)** – A sleek web interface for interacting with deployed models.
+
+- Business Use
+  - [vLLM](https://github.com/vllm-project/vllm)
+    High performance and low delay
+  - **[Open Web UI](https://github.com/open-webui/open-webui)** – A sleek web interface for interacting with deployed models.
+
 
 ### **2. AI Technology Stack**
 
