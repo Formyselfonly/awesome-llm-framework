@@ -52,6 +52,10 @@ Use Dify for LLMOPs and use RAGFLOW external Knowledge for Dify.
 
 - **[Dify](https://dify.ai/)** – A powerful AI development platform with workflow automation.
 - **[RAGFlow](https://ragflow.io/docs/dev/)** – An advanced Retrieval-Augmented Generation (RAG) framework for improving LLM responses with external data.
+  Optional，You can just Dify all in one
+- Code mode（More Advanced)
+  - LangChain+OpenAI SDK
+
 
 ------
 
@@ -112,6 +116,12 @@ Automate tasks and build AI-driven workflows:
 
 - [**Dify**](https://dify.ai/) – 强大的 AI 开发平台，支持自动化工作流。
 - [**RAGFlow**](https://ragflow.io/docs/dev/) – 先进的检索增强生成（RAG）框架，可通过外部知识提升 LLM 响应质量。
+  可选，直接用Dify all in one也行
+- 代码模式
+  - LangChain+OpenAI SDK
+    LangChain是鼻祖，现在还有LangGraph组件
+    而OpenAI SDK是最先进的AI API，现在还有Agent SDK用于集成AGENT和MCP
+
 
 ## **详细解析：关键 LLM 技术和框架**
 
